@@ -3,6 +3,7 @@ import App from './App.vue'
 import Home from './Home.vue'
 import Article from './Article.vue'
 import Liste from './Liste.vue'
+import Listeprops from './Listeprops.vue'
 
 new Vue({
   el: '#app',
@@ -21,5 +22,5 @@ new Vue({
 
 new Vue({
   el: '#list',
-  render: h=> h(Liste)
+  render: h=> h(Listeprops)
 })
