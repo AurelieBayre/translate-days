@@ -1,6 +1,6 @@
 # translate-days
 
-> A Vue.js project
+> A Vue.js project FOURRE-TOUT pour tester des trucs avec Florian et Maxence
 
 ## Build Setup
 
